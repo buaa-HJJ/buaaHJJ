@@ -1,3 +1,4 @@
 # 网站标记
 personal learning
-* [GithubHlep文档](https://docs.github.com/cn)
+* [Github Hlep文档](https://docs.github.com/cn)
+* [Markdown 语法教程](https://markdown.com.cn/basic-syntax/)
